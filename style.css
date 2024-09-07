@@ -15,9 +15,16 @@ body {
   padding: 0;/* Remove todo o preenchimento interno do elemento */
 }
 
+
+
+
+.titulo{
+  margin-top: 150px!important;
+  background-color: #ff6a00;
+}
 /* Estiliza os títulos h1 */
 h1 {
-  margin-top: 100px;/* Adiciona uma margem superior de 150 pixels */
+ 
   margin-bottom: 20px;/* Adiciona uma margem inferior de 20 pixels */
   border-radius: 10px;/* Define os cantos arredondados do elemento com um raio de 10 pixels */
   background-color: #ff6a00;
