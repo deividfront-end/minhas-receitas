@@ -14,3 +14,4 @@ Este projeto é um aplicativo web simples que permite aos usuários pesquisarem 
 * **CSS:** Estilização da página.
 * **JavaScript:** Lógica da aplicação, incluindo a função de pesquisa.
 
+https://deividfront-end.github.io/minhas-receitas/
